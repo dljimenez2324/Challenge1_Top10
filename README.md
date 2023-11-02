@@ -1,6 +1,6 @@
 # Challenge1_Top10
 
-<!-- Assignment Prompt:
+Assignment Prompt:
 You are to make a multi-page website that talks about your favorite items in a top ten style. This will be a group assignment, 2 per group. Each person will pick a topic and make a top 10 of it.
 
 A Grade
@@ -15,6 +15,6 @@ Have at least 3 pages linked properly
 Uses Bootstrap
 Has CSS applied properly
 All pages look like they belong to the same site.
-For every item, you must provide content, videos & Images. -->
+For every item, you must provide content, videos & Images.
 
-<!-- https://knowyourmeme.com/  resource for knowing memes -->
+https://knowyourmeme.com/  resource for knowing memes
