@@ -18,4 +18,5 @@ All pages look like they belong to the same site.
 For every item, you must provide content, videos & Images.
 
 Resource for knowing memes
+<br>
 https://knowyourmeme.com/
