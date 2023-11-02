@@ -17,4 +17,5 @@ Has CSS applied properly
 All pages look like they belong to the same site.
 For every item, you must provide content, videos & Images.
 
-https://knowyourmeme.com/  resource for knowing memes
+Resource for knowing memes
+https://knowyourmeme.com/
