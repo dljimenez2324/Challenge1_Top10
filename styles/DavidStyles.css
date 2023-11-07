@@ -30,7 +30,10 @@ img {
   /* border: 1px solid #000000 */
 }
 
-
+.goAway {
+  /* color: rgb(0, 0, 0) !important; */
+  text-decoration: none;
+}
 
 /* .card img{
   max-width: 90%;
