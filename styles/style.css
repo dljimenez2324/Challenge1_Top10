@@ -23,9 +23,9 @@ header {
   padding: 1em 0;
 }
 
-header h1 {
+/* header h1 {
   font-size: 2em;
-}
+} */
 
 main {
   max-width: 800px;
@@ -76,6 +76,19 @@ a:hover {
   text-decoration: none;
 }
 
-.bg {
-  background-color: #fff5e5;
+.navbar_bg {
+  background-color: #fff5e5 !important;
 }
+
+.bgVideo {
+  background-color: #ffbf69;
+}
+
+.bgMeme {
+  background-color: #b3f5f0;
+}
+
+.biggieYoSize {
+  column-width: auto;
+}
+
