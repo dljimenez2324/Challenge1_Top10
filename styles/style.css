@@ -72,7 +72,7 @@ a:hover {
 }
 
 .goAway {
-  /* color: rgb(0, 0, 0) !important; */
+  color: rgb(0, 0, 0) !important;
   text-decoration: none;
 }
 
@@ -92,3 +92,12 @@ a:hover {
   column-width: auto;
 }
 
+.imgPadNSize {
+  width="auto";
+  height="auto";
+  padding:80px;
+}
+
+.imgBorderRadius {
+  border-radius: 25px;
+}
