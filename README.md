@@ -19,14 +19,12 @@ Has CSS applied properly
 All pages look like they belong to the same site.
 For every item, you must provide content, videos & Images.
 
-Resource for knowing memes
-<br>
+Resource for knowing memes <br>
 https://knowyourmeme.com/
 <br>
-Resource for viral videos:
-Google Search
 
-<br>
-Figma for Alicia & David:
-<br>
+Resource for viral videos: <br>
+Google Search <br>
+
+Figma for Alicia & David: <br>
 https://www.figma.com/file/34G2di58U1tkXZY72YzYtH/Alicia-%26-David-Top-10-Website-Prototype?type=design&node-id=0%3A1&mode=design&t=YcKcx64gNv9KniSY-1
