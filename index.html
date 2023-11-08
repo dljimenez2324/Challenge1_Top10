@@ -11,8 +11,10 @@
   <body>
     <!-- START NAVBAR -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">Giggles Galore</a>
+        <div class="container-fluid navbar_bg">
+            <a class="navbar-brand" href="index.html">
+                <img src="media/images/DavidPage/indexlogo.png" class="card-img-top" alt="..." width="50" height="150">
+            </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -21,40 +23,48 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="1Alicia.html">Viral Videos</a>
+                        <a class="nav-link" aria-current="page" href="1Alicia.html">
+                            <strong>
+                                Top 10 Viral Videos
+                            </strong>    
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="2David.html">Viral Memes</a>
-                    </li>
-                    <!-- Dropdown Disabled Erase Later -->
-                    <!-- <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                            aria-expanded="false">
-                            Dropdown
+                        <a class="nav-link" aria-current="page" href="2David.html">
+                            <strong>
+                                Top 10 Viral Memes
+                            </strong>
                         </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                    </li> -->
-
+                    </li>
                 </ul>
-                <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                </form>
             </div>
         </div>
     </nav>
     <!-- END NAVBAR -->
-    <header class="bg-dark text-white text-center py-4">
+
+    <!-- <header class="bg-dark text-white text-center py-4">
         <h1>Top 10 Internet Memes</h1>
-    </header>
-    <main class="container">
+    </header> -->
+
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-md-6 bgVideo">
+                <div class="container">
+
+                    <h1 class="text-center ">Giggles</h1>
+                </div>
+                <!-- add the card video thingy here -->
+            </div>
+            <div class="col-md-6 bgMeme">
+                <!-- add the card meme thingy here -->
+                <h1 class="text-center">Galore</p>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- <main class="container">
         <div class="row">
             <div class="col-md-6 mb-4">
                 <a href="meme1.html" class="card-link goAway">
@@ -79,10 +89,11 @@
                 </a>
             </div>
         </div>
-    </main>
-    <footer class="bg-dark text-white text-center py-3">
+    </main> -->
+
+    <!-- <footer class="bg-dark text-white text-center py-3">
         <p>&copy; 2023 YourWebsiteName. All rights reserved.</p>
-    </footer>
+    </footer> -->
 
         <!-- DO NOT TOUCH -->
         <script
