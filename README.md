@@ -32,3 +32,6 @@ https://www.figma.com/file/34G2di58U1tkXZY72YzYtH/Alicia-%26-David-Top-10-Websit
 Link to GitHub: <br>
 https://github.com/dljimenez2324/Challenge1_Top10
 
+
+Reviewers:
+Julius - The website looks GREAT! I love the MEMES! Formatted nicely, and has great coloring. Just seems to be missing the description boxes on the cards. 
