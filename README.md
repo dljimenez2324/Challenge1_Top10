@@ -28,3 +28,7 @@ Google Search <br>
 
 Figma for Alicia & David: <br>
 https://www.figma.com/file/34G2di58U1tkXZY72YzYtH/Alicia-%26-David-Top-10-Website-Prototype?type=design&node-id=0%3A1&mode=design&t=YcKcx64gNv9KniSY-1
+
+Link to GitHub: <br>
+https://github.com/dljimenez2324/Challenge1_Top10
+
