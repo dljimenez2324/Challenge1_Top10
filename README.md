@@ -1,7 +1,7 @@
-# Challenge1_Top10
-Names: David Jimenez & Alicia Raquel
-Project: Challenge #1 Top 10
-Date: 11/08/2023
+# Challenge1_Top10 <br>
+Names: David Jimenez & Alicia Raquel <br>
+Project: Challenge #1 Top 10 <br>
+Date: 11/08/2023 <br>
 
 <h3>Assignment Prompt:</h3>
 You are to make a multi-page website that talks about your favorite items in a top ten style. This will be a group assignment, 2 per group. Each person will pick a topic and make a top 10 of it.
