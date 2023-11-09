@@ -34,5 +34,5 @@ Link to GitHub: <br>
 https://github.com/dljimenez2324/Challenge1_Top10
 
 
-Reviewers:
+<strong>Reviewers:</strong> <br>
 Julius - The website looks GREAT! I love the MEMES! Formatted nicely, and has great coloring. Just seems to be missing the description boxes on the cards. 
