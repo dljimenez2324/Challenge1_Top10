@@ -30,4 +30,4 @@ Figma for Alicia & David: <br>
 https://www.figma.com/file/34G2di58U1tkXZY72YzYtH/Alicia-%26-David-Top-10-Website-Prototype?type=design&node-id=0%3A1&mode=design&t=YcKcx64gNv9KniSY-1
 
 Reviewers:
-Julius - The website looks GREAT! I love the MEMES! Formatted nicely, and great coloring.
+Julius - The website looks GREAT! I love the MEMES! Formatted nicely, and has great coloring. Just seems to be missing the description boxes on the cards. 
